@@ -7,5 +7,6 @@
 </head>
 <body>
     <a href="about.html">about</a>
+    <?php echo "hello";?>
 </body>
 </html>
